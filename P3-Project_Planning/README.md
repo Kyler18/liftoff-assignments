@@ -9,11 +9,10 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-<ul>
-	<li><a href="https://github.com/Kyler18/liftoff-assignments/blob/master/P3-Project_Planning/image1.jpeg">Search Page</a><li>
-	<li><a href="https://github.com/Kyler18/liftoff-assignments/blob/master/P3-Project_Planning/image2.jpeg">Song Page</a><li>
-	<li><a href="https://github.com/Kyler18/liftoff-assignments/blob/master/P3-Project_Planning/image3.jpeg"Profile page</a><li>
-<ul>
+
+	[Search Page]("https://github.com/Kyler18/liftoff-assignments/blob/master/P3-Project_Planning/image1.jpeg"}
+	[Song Page]("https://github.com/Kyler18/liftoff-assignments/blob/master/P3-Project_Planning/image2.jpeg")
+	[Profile Page]("https://github.com/Kyler18/liftoff-assignments/blob/master/P3-Project_Planning/image3.jpeg")
 
 ### Project Tracker
 
