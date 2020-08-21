@@ -13,7 +13,8 @@ Include at least 3 wireframes here, adding images or files to your repository as
 	<li>[Search Page](https://github.com/Kyler18/liftoff-assignments/blob/master/P3-Project_Planning/image1.jpeg)</li>
 	<li>[Song Page](https://github.com/Kyler18/liftoff-assignments/blob/master/P3-Project_Planning/image2.jpeg)</li>
 	<li>[Profile Page](https://github.com/Kyler18/liftoff-assignments/blob/master/P3-Project_Planning/image3.jpeg)</li>
-<ul>
+</ul>
+
 ### Project Tracker
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
